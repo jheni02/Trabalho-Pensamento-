@@ -1,0 +1,33 @@
+body {
+    background: #CCCCCC
+}
+
+.titulo-principal {
+    color: blue;
+    font-size: 50px
+    padding-left: 30px;
+}
+.principal {
+   text-align: center
+}
+
+#banner {
+    width: 100%;
+}
+
+h1 {
+    text-align: center
+}
+
+p {
+     font-size: 20px
+}
+li {
+    font-size: 20px
+}
+
+ strong {
+    
+    color: blue;
+}
+   
